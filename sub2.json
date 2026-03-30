@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal, physically plausible scene of multiple escalators intertwined in a continuous looping structure, where each escalator appears to move upward locally but collectively forms a closed loop with no net elevation gain. People calmly ride the escalators, unaware of the paradoxical structure. The architecture is realistic, with soft cinematic lighting and muted tones. The composition emphasizes a smooth, continuous flow that feels logical at a local level but contradictory as a whole. No text, no numbers, no symbols, no diagrams.",
+  "model": "Gemini 3 Flash",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each escalator locally moves upward, but globally forms a loop with no overall progress, mirroring how trends in subgroups reverse when combined."
+}
