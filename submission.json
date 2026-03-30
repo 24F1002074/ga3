@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic wide-angle photograph of a vast salt-flat desert at twilight. In the foreground, small objects like a bicycle, clock, and shoe are relatively closer together. As the distance increases toward the horizon, the spacing between objects grows dramatically until the far distance appears almost completely empty. The landscape feels increasingly vast and sparse with depth. No people, no text, cinematic lighting, 8k resolution.",
+  "model": "Gemini 3 Flash",
+  "concept": "Curse of Dimensionality",
+  "metaphor": "Objects become exponentially farther apart across space, showing how increasing dimensions cause data to become sparse and distances less meaningful."
+}
